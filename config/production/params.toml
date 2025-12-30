@@ -8,7 +8,7 @@ keywords = ["USTC", "Physics", "Mechanics", "Hugo", "Blog"]
   link = "https://github.com/Hanchuxiao"
   
   # 2. 你的头像 (对应 static/images/avatar.png)
-  avatar = "/images/avatar.png"
+  avatar = "/images/avatar.jpg"
 
 [app]
   # PWA 应用标题 (手机添加到主屏幕时显示的名字)
