@@ -1,0 +1,18 @@
+# 1. 基础设置
+baseURL = "https://hanchuxiao.github.io/" # ⚠️ 必填：改成你的 GitHub Pages 地址
+title = "Hanchuxiao's Lab"  # 网站标题
+languageCode = "zh-CN"      # 语言设置
+
+[params]
+  # 2. 个人信息 (侧边栏/页脚显示)
+  author = "Hanchuxiao"
+  description = "USTC / Physics / Coding" # 简短介绍
+
+  # 3. 开启硬核功能 (这是 FixIt 的核心优势)
+  [params.page]
+    [params.page.math]
+      enable = true         # ✅ 开启 LaTeX 数学公式支持 ($E=mc^2$)
+    [params.page.mermaid]
+      enable = true         # ✅ 开启 Mermaid 流程图支持
+    [params.page.echarts]
+      enable = true         # ✅ 开启 ECharts 图表支持
