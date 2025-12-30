@@ -27,13 +27,7 @@ keywords = ["USTC", "Physics", "Mechanics", "Hugo", "Blog"]
 [home]
   [home.profile]
     enable = true
-    # 4. 这里是一个数组，可以放多条，Hugo 会自动轮播
-    subtitle = [
-      "The task is, not so much to see what no one has yet seen; but to think what nobody has yet thought, about that which everybody sees.",
-      "The most incomprehensible thing about the world is that it is comprehensible.",
-      "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world.",
-      "The scientist does not study nature because it is useful; he studies it because he delights in it, and he delights in it because it is beautiful.",
-    ]
+    subtitle = "The most incomprehensible thing about the world is that it is comprehensible."
     typeit = true # 开启打字机特效
 
 [customPartials]
