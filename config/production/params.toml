@@ -1,26 +1,36 @@
-description = "This is my new Hugo FixIt site"
-keywords = ["Hugo", "FixIt"]
+# 1. 网站描述 (SEO用，简短介绍)
+description = "Hanchuxiao's Personal Blog - USTC / Physics / Coding"
+keywords = ["USTC", "Physics", "Mechanics", "Hugo", "Blog"]
 
 [author]
-name = "Lruihao"
-email = ""
-link = "https://github.com/Lruihao"
-avatar = "https://lruihao.cn/images/avatar.jpg"
+  name = "Hanchuxiao"
+  email = "shuyu2023@mail.ustc.edu.cn"  # 选填，不填就留空 ""
+  link = "https://github.com/Hanchuxiao"
+  
+  # 2. 你的头像 (对应 static/images/avatar.png)
+  avatar = "/images/avatar.png"
 
 [app]
-title = "Hugo FixIt Blog"
+  # PWA 应用标题 (手机添加到主屏幕时显示的名字)
+  title = "Hanchuxiao's Lab"
 
 [header]
-
-[header.title]
-logo = "/hugo-fixit-starter/images/fixit.min.svg"
+  [header.title]
+    # 3. 网站左上角的 Logo
+    # ⚠️ 之前裂图就是因为这个路径不对。
+    # 这里我们直接复用你的头像作为 Logo：
+    logo = "/images/avatar.png"
+    
+    # 也可以显示文字标题：
+    name = "Hanchuxiao's Lab"
 
 [home]
-
-[home.profile]
-enable = true
+  [home.profile]
+    enable = true
+    # 4. 首页头像下方的“打字机特效”文字
+    subtitle = "Talk is cheap. Show me the code." 
 
 [customPartials]
-head = [
-  "inject/fixit-docs-bookmark.html",
-]
+  head = [
+    "inject/fixit-docs-bookmark.html",
+  ]
