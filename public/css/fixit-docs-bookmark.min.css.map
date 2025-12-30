@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "fixit-docs-bookmark.min.css",
-	"sourceRoot": "/Users/hanchuxiao/documents/github/hanchuxiao.github.io",
+	"sourceRoot": "/Users/hanchuxiao/Documents/GitHub/hanchuxiao.github.io",
 	"sources": [
 		"/Users/hanchuxiao/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-fixit/shortcode-docs-bookmark@v1.1.2/assets/css/fixit-docs-bookmark/index.scss"
 	],

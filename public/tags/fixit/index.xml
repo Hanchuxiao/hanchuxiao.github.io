@@ -4,9 +4,9 @@
     <title>FixIt - 标签 - Hanchuxiao&#39;s Lab</title>
     <link>http://localhost:1313/tags/fixit/</link>
     <description>This is my new Hugo FixIt site</description>
-    <generator>Hugo 0.153.4 &amp; FixIt v0.3.20</generator>
+    <generator>Hugo 0.153.4 &amp; FixIt v0.4.0-alpha.3</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 30 Dec 2025 16:33:37 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 17:55:09 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/fixit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
