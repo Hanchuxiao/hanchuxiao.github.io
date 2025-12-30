@@ -19,7 +19,7 @@ keywords = ["USTC", "Physics", "Mechanics", "Hugo", "Blog"]
     # 3. 网站左上角的 Logo
     # ⚠️ 之前裂图就是因为这个路径不对。
     # 这里我们直接复用你的头像作为 Logo：
-    logo = "static/images/avatar.jpg"
+    logo = "/images/avatar.jpg"
     
     # 也可以显示文字标题：
     name = "Hanchuxiao's Lab"
