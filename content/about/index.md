@@ -8,7 +8,7 @@ menu:
 ---
 
 ## 👋 Hello!
-我是韩楚萧，中国科学技术大学 (USTC) **力学系** 在读。
+我是寒初晓，中国科学技术大学 (USTC) **近代物理系** 在读。
 
 ### 🎓 Education
 - **USTC** (202x - Present): B.S. in Theoretical and Applied Mechanics.

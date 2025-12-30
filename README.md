@@ -1,4 +1,4 @@
-# Hugo FixIt 博客模板
+# Hugo FixIt 博客模板 (Go)
 
 👉 中文 | [English](README.en.md)
 
